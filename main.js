@@ -4,7 +4,9 @@ const { createApp } = Vue
 createApp({
   data() {
     return {
-        message: 'Vue Hello!'
+        message: 'Vue Hello!',
+        image: 'immagini-natalizie-91.jpg',
+        message_2: 'E buone feste! ohohoh!'
     }
     
   }
